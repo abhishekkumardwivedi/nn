@@ -5,7 +5,7 @@
   - ArcTan    
   - ReLU    
   - SoftMax    
-  
+  #### Gradient    
   #### Zero Padding    
   #### Max Pooling    
   #### Binary cross entropy    
